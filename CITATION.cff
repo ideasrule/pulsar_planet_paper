@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Zhang
+    given-names: Michael
+    orcid: https://orcid.org/0000-0002-0659-1783
+title: "Pulsar planet plots"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: TBD
+date-released: 2025-10-20
